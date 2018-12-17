@@ -1,0 +1,1576 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"  height="110mm" viewBox="0 0 354.33071 389.76378" id="svg8142" width="100mm" gorn="0">
+    <desc >
+        <referenceFile >JUSTSCHEMATIC.svg</referenceFile>
+    </desc>
+    <defs  id="defs8144"/>
+    <metadata  id="metadata8147">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="translate(0,-662.59843)">
+        <g >
+            <g >
+                <g >
+                    <rect stroke-opacity="1"  fill="#ffffff" x="15.136719" y="1422.532" stroke="#000000" height="219.33696" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" id="rect3935" stroke-width="1.99401355" width="330.08694" gorn="0.3.0.0.0.0"/>
+                    <g  style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0" id="g3944" gorn="0.3.0.0.0.1">
+                        <path d="m 14.044975,1531.9713 7.3125,0.3243 73.864597,-3.491 -6.958757,-0.2058 z" stroke-opacity="1"  fill="#afafde" stroke="none" points="21.357475,1532.2956 95.222072,1528.8046 88.263315,1528.5988 14.044975,1531.9713 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3954" stroke-width="1" gorn="0.3.0.0.0.1.0"/>
+                        <path d="m 14.044975,1530.7643 0,1.207 74.21834,-3.3725 0,-0.9632 z" stroke-opacity="1"  fill="#353564" stroke="none" points="14.044975,1531.9713 88.263315,1528.5988 88.263315,1527.6356 14.044975,1530.7643 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3946" stroke-width="1" gorn="0.3.0.0.0.1.1"/>
+                        <path d="m 88.263315,1527.6356 6.958757,0.1909 0,0.9781 -6.958757,-0.2058 z" stroke-opacity="1"  fill="#e9e9ff" stroke="none" points="95.222072,1527.8265 95.222072,1528.8046 88.263315,1528.5988 88.263315,1527.6356 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3956" stroke-width="1" gorn="0.3.0.0.0.1.2"/>
+                        <path d="m 14.044975,1530.7643 7.3125,0.3009 73.864597,-3.2387 -6.958757,-0.1909 z" stroke-opacity="1"  fill="#4d4d9f" stroke="none" points="21.357475,1531.0652 95.222072,1527.8265 88.263315,1527.6356 14.044975,1530.7643 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3948" stroke-width="1" gorn="0.3.0.0.0.1.3"/>
+                        <path d="m 21.357475,1531.0652 0,1.2304 73.864597,-3.491 0,-0.9781 z" stroke-opacity="1"  fill="#d7d7ff" stroke="none" points="21.357475,1532.2956 95.222072,1528.8046 95.222072,1527.8265 21.357475,1531.0652 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3952" stroke-width="1" gorn="0.3.0.0.0.1.4"/>
+                        <path d="m 14.044975,1530.7643 7.3125,0.3009 0,1.2304 -7.3125,-0.3243 z" stroke-opacity="1"  fill="#8686bf" stroke="none" points="21.357475,1531.0652 21.357475,1532.2956 14.044975,1531.9713 14.044975,1530.7643 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3950" stroke-width="1" gorn="0.3.0.0.0.1.5"/>
+                    </g>
+                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="rect3958" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.2"/>
+                    <rect stroke-opacity="1"  fill="#0000ff" x="345.5683" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="rect8396" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.3"/>
+                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="rect8852" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.4"/>
+                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="rect9006" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.5"/>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4139-9" stroke-width="1" gorn="0.3.0.0.0.6" fill-opacity="1">
+                        <text  x="16.897934" y="1429.7446" id="tspan7395" gorn="0.3.0.0.0.6.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5314" stroke-width="1" gorn="0.3.0.0.0.7" fill-opacity="1">
+                        <text  x="16.897934" y="1429.7446" id="tspan7391" gorn="0.3.0.0.0.7.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5316" stroke-width="1" gorn="0.3.0.0.0.8" fill-opacity="1">
+                        <text  x="29.967262" y="1429.7446" id="tspan7387" gorn="0.3.0.0.0.8.0"> 5V</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5318" stroke-width="1" gorn="0.3.0.0.0.9" fill-opacity="1">
+                        <text  x="43.036598" y="1429.7446" id="tspan7383" gorn="0.3.0.0.0.9.0"> 3V</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5320" stroke-width="1" gorn="0.3.0.0.0.10" fill-opacity="1">
+                        <text  x="56.105927" y="1429.7446" id="tspan7379" gorn="0.3.0.0.0.10.0">PH0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5322" stroke-width="1" gorn="0.3.0.0.0.11" fill-opacity="1">
+                        <text  x="69.17527" y="1429.7446" id="tspan7375" gorn="0.3.0.0.0.11.0">PC14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5324" stroke-width="1" gorn="0.3.0.0.0.12" fill-opacity="1">
+                        <text  x="82.244598" y="1429.7446" id="tspan7371" gorn="0.3.0.0.0.12.0">PE6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5326" stroke-width="1" gorn="0.3.0.0.0.13" fill-opacity="1">
+                        <text  x="95.313927" y="1429.7446" id="tspan7367" gorn="0.3.0.0.0.13.0">PE4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5328" stroke-width="1" gorn="0.3.0.0.0.14" fill-opacity="1">
+                        <text  x="108.38331" y="1429.7446" id="tspan7363" gorn="0.3.0.0.0.14.0">PE2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5330" stroke-width="1" gorn="0.3.0.0.0.15" fill-opacity="1">
+                        <text  x="121.45261" y="1429.7446" id="tspan7359" gorn="0.3.0.0.0.15.0">PE0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5332" stroke-width="1" gorn="0.3.0.0.0.16" fill-opacity="1">
+                        <text  x="134.52194" y="1429.7446" id="tspan7355" gorn="0.3.0.0.0.16.0">PB8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5334" stroke-width="1" gorn="0.3.0.0.0.17" fill-opacity="1">
+                        <text  x="147.59128" y="1429.7446" id="tspan7351" gorn="0.3.0.0.0.17.0">BOOT</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5336" stroke-width="1" gorn="0.3.0.0.0.18" fill-opacity="1">
+                        <text  x="160.66064" y="1429.7446" id="tspan7347" gorn="0.3.0.0.0.18.0">PB6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5338" stroke-width="1" gorn="0.3.0.0.0.19" fill-opacity="1">
+                        <text  x="173.72998" y="1429.7446" id="tspan7343" gorn="0.3.0.0.0.19.0">PB4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5340" stroke-width="1" gorn="0.3.0.0.0.20" fill-opacity="1">
+                        <text  x="186.79932" y="1429.7446" id="tspan7339" gorn="0.3.0.0.0.20.0">PD7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5342" stroke-width="1" gorn="0.3.0.0.0.21" fill-opacity="1">
+                        <text  x="199.86865" y="1429.7446" id="tspan7335" gorn="0.3.0.0.0.21.0">PD5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5344" stroke-width="1" gorn="0.3.0.0.0.22" fill-opacity="1">
+                        <text  x="212.93799" y="1429.7446" id="tspan7331" gorn="0.3.0.0.0.22.0">PD3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5346" stroke-width="1" gorn="0.3.0.0.0.23" fill-opacity="1">
+                        <text  x="226.00732" y="1429.7446" id="tspan7327" gorn="0.3.0.0.0.23.0">PD1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5348" stroke-width="1" gorn="0.3.0.0.0.24" fill-opacity="1">
+                        <text  x="239.07666" y="1429.7446" id="tspan7323" gorn="0.3.0.0.0.24.0">PC12</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5350" stroke-width="1" gorn="0.3.0.0.0.25" fill-opacity="1">
+                        <text  x="252.146" y="1429.7446" id="tspan7319" gorn="0.3.0.0.0.25.0">PC10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5352" stroke-width="1" gorn="0.3.0.0.0.26" fill-opacity="1">
+                        <text  x="265.21533" y="1429.7446" id="tspan7315" gorn="0.3.0.0.0.26.0">PA14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5354" stroke-width="1" gorn="0.3.0.0.0.27" fill-opacity="1">
+                        <text  x="278.28467" y="1429.7446" id="tspan7311" gorn="0.3.0.0.0.27.0">PA10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5356" stroke-width="1" gorn="0.3.0.0.0.28" fill-opacity="1">
+                        <text  x="291.354" y="1429.7446" id="tspan7307" gorn="0.3.0.0.0.28.0">PA8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5358" stroke-width="1" gorn="0.3.0.0.0.29" fill-opacity="1">
+                        <text  x="304.42334" y="1429.7446" id="tspan7303" gorn="0.3.0.0.0.29.0">PC8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5360" stroke-width="1" gorn="0.3.0.0.0.30" fill-opacity="1">
+                        <text  x="317.49268" y="1429.7446" id="tspan7299" gorn="0.3.0.0.0.30.0">PC6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5362" stroke-width="1" gorn="0.3.0.0.0.31" fill-opacity="1">
+                        <text  x="330.56201" y="1429.7446" id="tspan7295" gorn="0.3.0.0.0.31.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4139-6" stroke-width="1" gorn="0.3.0.0.0.32" fill-opacity="1">
+                        <text  x="331.32697" y="1444.2747" id="tspan7291" gorn="0.3.0.0.0.32.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4869" stroke-width="1" gorn="0.3.0.0.0.33" fill-opacity="1">
+                        <text  x="331.32697" y="1444.2747" id="tspan7287" gorn="0.3.0.0.0.33.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4871" stroke-width="1" gorn="0.3.0.0.0.34" fill-opacity="1">
+                        <text  x="331.32697" y="1451.8381" id="tspan7283" gorn="0.3.0.0.0.34.0"> 5V</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4873" stroke-width="1" gorn="0.3.0.0.0.35" fill-opacity="1">
+                        <text  x="331.32697" y="1459.4016" id="tspan7279" gorn="0.3.0.0.0.35.0"> 3V</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4875" stroke-width="1" gorn="0.3.0.0.0.36" fill-opacity="1">
+                        <text  x="331.32697" y="1466.9651" id="tspan7275" gorn="0.3.0.0.0.36.0">PH1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4877" stroke-width="1" gorn="0.3.0.0.0.37" fill-opacity="1">
+                        <text  x="331.32697" y="1474.5286" id="tspan7271" gorn="0.3.0.0.0.37.0">PC15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4879" stroke-width="1" gorn="0.3.0.0.0.38" fill-opacity="1">
+                        <text  x="331.32697" y="1482.092" id="tspan7267" gorn="0.3.0.0.0.38.0">PC13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4881" stroke-width="1" gorn="0.3.0.0.0.39" fill-opacity="1">
+                        <text  x="331.32697" y="1489.6555" id="tspan7263" gorn="0.3.0.0.0.39.0">PE5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4883" stroke-width="1" gorn="0.3.0.0.0.40" fill-opacity="1">
+                        <text  x="331.32697" y="1497.219" id="tspan7259" gorn="0.3.0.0.0.40.0">PE3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4885" stroke-width="1" gorn="0.3.0.0.0.41" fill-opacity="1">
+                        <text  x="331.32697" y="1504.7825" id="tspan7255" gorn="0.3.0.0.0.41.0">PE1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4887" stroke-width="1" gorn="0.3.0.0.0.42" fill-opacity="1">
+                        <text  x="331.32697" y="1512.3459" id="tspan7251" gorn="0.3.0.0.0.42.0">PB9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4889" stroke-width="1" gorn="0.3.0.0.0.43" fill-opacity="1">
+                        <text  x="331.32697" y="1519.9094" id="tspan7247" gorn="0.3.0.0.0.43.0">VDD</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4891" stroke-width="1" gorn="0.3.0.0.0.44" fill-opacity="1">
+                        <text  x="331.32697" y="1527.4729" id="tspan7243" gorn="0.3.0.0.0.44.0">PB7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4893" stroke-width="1" gorn="0.3.0.0.0.45" fill-opacity="1">
+                        <text  x="331.32697" y="1535.0364" id="tspan7239" gorn="0.3.0.0.0.45.0">PB5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4895" stroke-width="1" gorn="0.3.0.0.0.46" fill-opacity="1">
+                        <text  x="331.32697" y="1542.5999" id="tspan7235" gorn="0.3.0.0.0.46.0">PB3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4897" stroke-width="1" gorn="0.3.0.0.0.47" fill-opacity="1">
+                        <text  x="331.32697" y="1550.1633" id="tspan7231" gorn="0.3.0.0.0.47.0">PD6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4899" stroke-width="1" gorn="0.3.0.0.0.48" fill-opacity="1">
+                        <text  x="331.32697" y="1557.7268" id="tspan7227" gorn="0.3.0.0.0.48.0">PD4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4901" stroke-width="1" gorn="0.3.0.0.0.49" fill-opacity="1">
+                        <text  x="331.32697" y="1565.2903" id="tspan7223" gorn="0.3.0.0.0.49.0">PD2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4903" stroke-width="1" gorn="0.3.0.0.0.50" fill-opacity="1">
+                        <text  x="331.32697" y="1572.8538" id="tspan7219" gorn="0.3.0.0.0.50.0">PD0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4905" stroke-width="1" gorn="0.3.0.0.0.51" fill-opacity="1">
+                        <text  x="331.32697" y="1580.4172" id="tspan7215" gorn="0.3.0.0.0.51.0">PC11</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4907" stroke-width="1" gorn="0.3.0.0.0.52" fill-opacity="1">
+                        <text  x="331.32697" y="1587.9807" id="tspan7211" gorn="0.3.0.0.0.52.0">PA15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4909" stroke-width="1" gorn="0.3.0.0.0.53" fill-opacity="1">
+                        <text  x="331.32697" y="1595.5442" id="tspan7207" gorn="0.3.0.0.0.53.0">PA13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4911" stroke-width="1" gorn="0.3.0.0.0.54" fill-opacity="1">
+                        <text  x="331.32697" y="1603.1077" id="tspan7203" gorn="0.3.0.0.0.54.0">PA9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4913" stroke-width="1" gorn="0.3.0.0.0.55" fill-opacity="1">
+                        <text  x="331.32697" y="1610.6711" id="tspan7199" gorn="0.3.0.0.0.55.0">PC9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4915" stroke-width="1" gorn="0.3.0.0.0.56" fill-opacity="1">
+                        <text  x="331.32697" y="1618.2346" id="tspan7195" gorn="0.3.0.0.0.56.0">PC7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4917" stroke-width="1" gorn="0.3.0.0.0.57" fill-opacity="1">
+                        <text  x="331.32697" y="1625.7981" id="tspan7191" gorn="0.3.0.0.0.57.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5314-3" stroke-width="1" gorn="0.3.0.0.0.58" fill-opacity="1">
+                        <text  x="16.897934" y="1638.4447" id="tspan7187" gorn="0.3.0.0.0.58.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6179" stroke-width="1" gorn="0.3.0.0.0.59" fill-opacity="1">
+                        <text  x="16.897934" y="1638.4447" id="tspan7183" gorn="0.3.0.0.0.59.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6181" stroke-width="1" gorn="0.3.0.0.0.60" fill-opacity="1">
+                        <text  x="29.967262" y="1638.4447" id="tspan7179" gorn="0.3.0.0.0.60.0">VDD</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6183" stroke-width="1" gorn="0.3.0.0.0.61" fill-opacity="1">
+                        <text  x="43.036598" y="1638.4447" id="tspan7175" gorn="0.3.0.0.0.61.0">NRST</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6185" stroke-width="1" gorn="0.3.0.0.0.62" fill-opacity="1">
+                        <text  x="56.105927" y="1638.4447" id="tspan7171" gorn="0.3.0.0.0.62.0">PC0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6187" stroke-width="1" gorn="0.3.0.0.0.63" fill-opacity="1">
+                        <text  x="69.17527" y="1638.4447" id="tspan7167" gorn="0.3.0.0.0.63.0">PC2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6189" stroke-width="1" gorn="0.3.0.0.0.64" fill-opacity="1">
+                        <text  x="82.244598" y="1638.4447" id="tspan7163" gorn="0.3.0.0.0.64.0">PA0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6191" stroke-width="1" gorn="0.3.0.0.0.65" fill-opacity="1">
+                        <text  x="95.313927" y="1638.4447" id="tspan7159" gorn="0.3.0.0.0.65.0">PA2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6193" stroke-width="1" gorn="0.3.0.0.0.66" fill-opacity="1">
+                        <text  x="108.38331" y="1638.4447" id="tspan7155" gorn="0.3.0.0.0.66.0">PA4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6195" stroke-width="1" gorn="0.3.0.0.0.67" fill-opacity="1">
+                        <text  x="121.45261" y="1638.4447" id="tspan7151" gorn="0.3.0.0.0.67.0">PA6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6197" stroke-width="1" gorn="0.3.0.0.0.68" fill-opacity="1">
+                        <text  x="134.52194" y="1638.4447" id="tspan7147" gorn="0.3.0.0.0.68.0">PC4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6199" stroke-width="1" gorn="0.3.0.0.0.69" fill-opacity="1">
+                        <text  x="147.59128" y="1638.4447" id="tspan7143" gorn="0.3.0.0.0.69.0">PB0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6201" stroke-width="1" gorn="0.3.0.0.0.70" fill-opacity="1">
+                        <text  x="160.66064" y="1638.4447" id="tspan7139" gorn="0.3.0.0.0.70.0">PB2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6203" stroke-width="1" gorn="0.3.0.0.0.71" fill-opacity="1">
+                        <text  x="173.72998" y="1638.4447" id="tspan7135" gorn="0.3.0.0.0.71.0">PE8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6205" stroke-width="1" gorn="0.3.0.0.0.72" fill-opacity="1">
+                        <text  x="186.79932" y="1638.4447" id="tspan7131" gorn="0.3.0.0.0.72.0">PE10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6207" stroke-width="1" gorn="0.3.0.0.0.73" fill-opacity="1">
+                        <text  x="199.86865" y="1638.4447" id="tspan7127" gorn="0.3.0.0.0.73.0">PE12</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6209" stroke-width="1" gorn="0.3.0.0.0.74" fill-opacity="1">
+                        <text  x="212.93799" y="1638.4447" id="tspan7123" gorn="0.3.0.0.0.74.0">PE14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6211" stroke-width="1" gorn="0.3.0.0.0.75" fill-opacity="1">
+                        <text  x="226.00732" y="1638.4447" id="tspan7119" gorn="0.3.0.0.0.75.0">PB10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6213" stroke-width="1" gorn="0.3.0.0.0.76" fill-opacity="1">
+                        <text  x="239.07666" y="1638.4447" id="tspan7115" gorn="0.3.0.0.0.76.0">PB12</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6215" stroke-width="1" gorn="0.3.0.0.0.77" fill-opacity="1">
+                        <text  x="252.146" y="1638.4447" id="tspan7111" gorn="0.3.0.0.0.77.0">PB14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6217" stroke-width="1" gorn="0.3.0.0.0.78" fill-opacity="1">
+                        <text  x="265.21533" y="1638.4447" id="tspan7107" gorn="0.3.0.0.0.78.0">PD8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6219" stroke-width="1" gorn="0.3.0.0.0.79" fill-opacity="1">
+                        <text  x="278.28467" y="1638.4447" id="tspan7103" gorn="0.3.0.0.0.79.0">PD10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6221" stroke-width="1" gorn="0.3.0.0.0.80" fill-opacity="1">
+                        <text  x="291.354" y="1638.4447" id="tspan7099" gorn="0.3.0.0.0.80.0">PD12</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6223" stroke-width="1" gorn="0.3.0.0.0.81" fill-opacity="1">
+                        <text  x="304.42334" y="1638.4447" id="tspan7095" gorn="0.3.0.0.0.81.0">PD14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6225" stroke-width="1" gorn="0.3.0.0.0.82" fill-opacity="1">
+                        <text  x="317.49268" y="1638.4447" id="tspan7091" gorn="0.3.0.0.0.82.0"> NC</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6227" stroke-width="1" gorn="0.3.0.0.0.83" fill-opacity="1">
+                        <text  x="330.56201" y="1638.4447" id="tspan7087" gorn="0.3.0.0.0.83.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4141" stroke-width="1" gorn="0.3.0.0.0.84" fill-opacity="1">
+                        <text  x="16.89769" y="1451.8379" id="tspan7083" gorn="0.3.0.0.0.84.0">VDD</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4143" stroke-width="1" gorn="0.3.0.0.0.85" fill-opacity="1">
+                        <text  x="16.89769" y="1459.4014" id="tspan7079" gorn="0.3.0.0.0.85.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4145" stroke-width="1" gorn="0.3.0.0.0.86" fill-opacity="1">
+                        <text  x="16.89769" y="1466.9648" id="tspan7075" gorn="0.3.0.0.0.86.0">PC1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4147" stroke-width="1" gorn="0.3.0.0.0.87" fill-opacity="1">
+                        <text  x="16.89769" y="1474.5283" id="tspan7071" gorn="0.3.0.0.0.87.0">PC3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4149" stroke-width="1" gorn="0.3.0.0.0.88" fill-opacity="1">
+                        <text  x="16.89769" y="1482.0918" id="tspan7067" gorn="0.3.0.0.0.88.0">PA1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4151" stroke-width="1" gorn="0.3.0.0.0.89" fill-opacity="1">
+                        <text  x="16.89769" y="1489.6553" id="tspan7063" gorn="0.3.0.0.0.89.0">PA3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4153" stroke-width="1" gorn="0.3.0.0.0.90" fill-opacity="1">
+                        <text  x="16.89769" y="1497.2188" id="tspan7059" gorn="0.3.0.0.0.90.0">PA5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4155" stroke-width="1" gorn="0.3.0.0.0.91" fill-opacity="1">
+                        <text  x="16.89769" y="1504.7822" id="tspan7055" gorn="0.3.0.0.0.91.0">PA7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4157" stroke-width="1" gorn="0.3.0.0.0.92" fill-opacity="1">
+                        <text  x="16.89769" y="1512.3457" id="tspan7051" gorn="0.3.0.0.0.92.0">PC5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4159" stroke-width="1" gorn="0.3.0.0.0.93" fill-opacity="1">
+                        <text  x="16.89769" y="1519.9092" id="tspan7047" gorn="0.3.0.0.0.93.0">PB1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4161" stroke-width="1" gorn="0.3.0.0.0.94" fill-opacity="1">
+                        <text  x="16.89769" y="1527.4727" id="tspan7043" gorn="0.3.0.0.0.94.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4163" stroke-width="1" gorn="0.3.0.0.0.95" fill-opacity="1">
+                        <text  x="16.89769" y="1535.0361" id="tspan7039" gorn="0.3.0.0.0.95.0">PE7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4165" stroke-width="1" gorn="0.3.0.0.0.96" fill-opacity="1">
+                        <text  x="16.89769" y="1542.5996" id="tspan7035" gorn="0.3.0.0.0.96.0">PE9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4167" stroke-width="1" gorn="0.3.0.0.0.97" fill-opacity="1">
+                        <text  x="16.89769" y="1550.1631" id="tspan7031" gorn="0.3.0.0.0.97.0">PE11</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4169" stroke-width="1" gorn="0.3.0.0.0.98" fill-opacity="1">
+                        <text  x="16.89769" y="1557.7266" id="tspan7027" gorn="0.3.0.0.0.98.0">PE13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4171" stroke-width="1" gorn="0.3.0.0.0.99" fill-opacity="1">
+                        <text  x="16.89769" y="1565.29" id="tspan7023" gorn="0.3.0.0.0.99.0">PE15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4173" stroke-width="1" gorn="0.3.0.0.0.100" fill-opacity="1">
+                        <text  x="16.89769" y="1572.8535" id="tspan7019" gorn="0.3.0.0.0.100.0">PB11</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4175" stroke-width="1" gorn="0.3.0.0.0.101" fill-opacity="1">
+                        <text  x="16.89769" y="1580.417" id="tspan7015" gorn="0.3.0.0.0.101.0">PB13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4177" stroke-width="1" gorn="0.3.0.0.0.102" fill-opacity="1">
+                        <text  x="16.89769" y="1587.9805" id="tspan7011" gorn="0.3.0.0.0.102.0">PB15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4179" stroke-width="1" gorn="0.3.0.0.0.103" fill-opacity="1">
+                        <text  x="16.89769" y="1595.5439" id="tspan7007" gorn="0.3.0.0.0.103.0">PD9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4181" stroke-width="1" gorn="0.3.0.0.0.104" fill-opacity="1">
+                        <text  x="16.89769" y="1603.1074" id="tspan7003" gorn="0.3.0.0.0.104.0">PD11</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4183" stroke-width="1" gorn="0.3.0.0.0.105" fill-opacity="1">
+                        <text  x="16.89769" y="1610.6709" id="tspan6999" gorn="0.3.0.0.0.105.0">PD13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4185" stroke-width="1" gorn="0.3.0.0.0.106" fill-opacity="1">
+                        <text  x="16.89769" y="1618.2344" id="tspan6995" gorn="0.3.0.0.0.106.0">PD15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4187" stroke-width="1" gorn="0.3.0.0.0.107" fill-opacity="1">
+                        <text  x="16.89769" y="1625.7979" id="tspan6991" gorn="0.3.0.0.0.107.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="text3975" stroke-width="1" gorn="0.3.0.0.0.108" fill-opacity="1">
+                        <text  x="16.89769" y="1444.2744" id="tspan3977" gorn="0.3.0.0.0.108.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#000000" font-size="17.5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="text7401" stroke-width="1" gorn="0.3.0.0.0.109" fill-opacity="1">
+                        <text  x="96.272667" y="1535.5244" id="tspan7403" gorn="0.3.0.0.0.109.0">STM32F4 DISCOVERY</text>
+                    </g>
+                    <rect stroke-opacity="1"  fill="#ffffff" x="15.136719" y="759.93347" stroke="#000000" height="219.33696" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" id="rect3935-5" stroke-width="1.99401355" width="330.08694" gorn="0.3.0.0.0.110"/>
+                    <rect stroke-opacity="1"  fill="#ffffff" x="15.136719" y="1422.532" stroke="#000000" height="219.33696" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" id="rect3935-1" stroke-width="1.99401355" width="330.08694" gorn="0.3.0.0.0.111"/>
+                    <g  style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0" id="g3944-6" gorn="0.3.0.0.0.112">
+                        <path d="m 14.044975,1531.9713 7.3125,0.3243 73.864597,-3.491 -6.958757,-0.2058 z" stroke-opacity="1"  fill="#afafde" stroke="none" points="21.357475,1532.2956 95.222072,1528.8046 88.263315,1528.5988 14.044975,1531.9713 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3954-1" stroke-width="1" gorn="0.3.0.0.0.112.0"/>
+                        <path d="m 14.044975,1530.7643 0,1.207 74.21834,-3.3725 0,-0.9632 z" stroke-opacity="1"  fill="#353564" stroke="none" points="14.044975,1531.9713 88.263315,1528.5988 88.263315,1527.6356 14.044975,1530.7643 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3946-5" stroke-width="1" gorn="0.3.0.0.0.112.1"/>
+                        <path d="m 88.263315,1527.6356 6.958757,0.1909 0,0.9781 -6.958757,-0.2058 z" stroke-opacity="1"  fill="#e9e9ff" stroke="none" points="95.222072,1527.8265 95.222072,1528.8046 88.263315,1528.5988 88.263315,1527.6356 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3956-2" stroke-width="1" gorn="0.3.0.0.0.112.2"/>
+                        <path d="m 14.044975,1530.7643 7.3125,0.3009 73.864597,-3.2387 -6.958757,-0.1909 z" stroke-opacity="1"  fill="#4d4d9f" stroke="none" points="21.357475,1531.0652 95.222072,1527.8265 88.263315,1527.6356 14.044975,1530.7643 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3948-5" stroke-width="1" gorn="0.3.0.0.0.112.3"/>
+                        <path d="m 21.357475,1531.0652 0,1.2304 73.864597,-3.491 0,-0.9781 z" stroke-opacity="1"  fill="#d7d7ff" stroke="none" points="21.357475,1532.2956 95.222072,1528.8046 95.222072,1527.8265 21.357475,1531.0652 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3952-1" stroke-width="1" gorn="0.3.0.0.0.112.4"/>
+                        <path d="m 14.044975,1530.7643 7.3125,0.3009 0,1.2304 -7.3125,-0.3243 z" stroke-opacity="1"  fill="#8686bf" stroke="none" points="21.357475,1531.0652 21.357475,1532.2956 14.044975,1531.9713 14.044975,1530.7643 " style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;" id="path3950-3" stroke-width="1" gorn="0.3.0.0.0.112.5"/>
+                    </g>
+                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="rect3958-5" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.113"/>
+                    <g  transform="translate(4.0702549e-6,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector0pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.114.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-655.03637)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector1pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.115.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-647.47427)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector2pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.116.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-639.91217)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector3pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.117.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-632.35007)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector4pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.118.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-624.78797)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector5pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.119.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-617.22587)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector6pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.120.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-609.66377)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector7pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.121.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-602.10167)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector8pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.122.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-594.53957)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector9pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.123.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-586.97747)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector10pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.124.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-579.41537)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector11pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.125.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-571.85327)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector12pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.126.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-564.29117)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector13pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.127.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-556.72907)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector14pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.128.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-549.16697)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector15pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.129.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-541.60487)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector16pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.130.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-534.04277)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector17pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.131.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-526.48067)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector18pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.132.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-518.91857)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector19pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.133.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-511.35647)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector20pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.134.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-503.79437)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector21pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.135.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-496.23227)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector22pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.136.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-488.67017)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector23pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.137.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-5.9297451e-6,-481.10807)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector24pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.138.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <rect stroke-opacity="1"  fill="#0000ff" x="345.5683" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="rect8396-3" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.139"/>
+                    <g  transform="translate(338.5,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector75pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.140.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-655.03637)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector76pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.141.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-647.47427)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector77pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.142.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-639.91217)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector78pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.143.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-632.35007)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector79pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.144.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-624.78797)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector80pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.145.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-617.22587)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector81pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.146.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-609.66377)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector82pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.147.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-602.10167)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector83pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.148.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-594.53957)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector84pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.149.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-586.97747)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector85pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.150.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-579.41537)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector86pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.151.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-571.85327)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector87pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.152.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-564.29117)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector88pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.153.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-556.72907)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector89pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.154.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-549.16697)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector90pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.155.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-541.60487)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector91pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.156.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-534.04277)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector92pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.157.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-526.48067)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector93pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.158.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-518.91857)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector94pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.159.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-511.35647)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector95pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.160.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-503.79437)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector96pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.161.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-496.23227)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector97pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.162.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-488.67017)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector98pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.163.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(338.5,-481.10807)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="7.0682755" y="1442.7269" stroke="#000000" height="0.11396603" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector99pin" stroke-width="0.717034" width="7.0017161" gorn="0.3.0.0.0.164.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="rect8852-2" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.165"/>
+                    <g  transform="translate(4.0702549e-6,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector50pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.166.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(13.046694,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector51pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.167.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(26.093394,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector52pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.168.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(39.140094,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector53pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.169.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(52.186794,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector54pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.170.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(65.233504,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector55pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.171.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(78.280204,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector56pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.172.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(91.326904,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector57pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.173.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(104.3736,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector58pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.174.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(117.4203,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector59pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.175.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(130.467,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector60pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.176.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(143.5137,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector61pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.177.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(156.5604,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector62pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.178.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(169.6071,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector63pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.179.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(182.6538,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector64pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.180.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(195.7005,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector65pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.181.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(208.7472,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector66pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.182.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(221.7939,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector67pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.183.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(234.8406,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector68pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.184.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(247.8873,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector69pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.185.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(260.934,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector70pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.186.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(273.9807,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector71pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.187.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(287.0274,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector72pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.188.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(300.0741,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector73pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.189.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(313.1208,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#0000ff" x="22.353241" y="1414.8049" stroke="#000000" height="7.3579984" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector74pin" stroke-width="0.361002" width="0.46999821" gorn="0.3.0.0.0.190.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="rect9006-6" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.191"/>
+                    <g  transform="translate(4.0702549e-6,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector25pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.192.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(13.046704,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector26pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.193.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(26.093404,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector27pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.194.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(39.140104,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector28pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.195.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(52.186794,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector29pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.196.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(65.233504,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector30pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.197.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(78.280204,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector31pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.198.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(91.326904,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector32pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.199.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(104.37361,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector33pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.200.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(117.42031,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector34pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.201.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(130.46701,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector35pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.202.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(143.51371,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector36pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.203.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(156.56041,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector37pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.204.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(169.60711,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector38pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.205.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(182.65381,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector39pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.206.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(195.70051,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector40pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.207.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(208.74722,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector41pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.208.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(221.79392,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector42pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.209.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(234.84062,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector43pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.210.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(247.88732,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector44pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.211.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(260.93402,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector45pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.212.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(273.98072,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector46pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.213.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(287.02742,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector47pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.214.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(300.07412,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector48pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.215.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(313.12082,-662.59847)">
+                        <g >
+                            <g >
+                                <g >
+                                    <rect stroke-opacity="1"  fill="#000000" x="22.308014" y="1642.2596" stroke="#000000" height="7.4484477" style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="connector49pin" stroke-width="0.270552" width="0.56044775" gorn="0.3.0.0.0.216.0.0.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4139-9-3" stroke-width="1" gorn="0.3.0.0.0.217" fill-opacity="1">
+                        <text  x="16.897934" y="767.14612" id="tspan7395-0" gorn="0.3.0.0.0.217.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5314-4" stroke-width="1" gorn="0.3.0.0.0.218" fill-opacity="1">
+                        <text  x="16.897934" y="767.14612" id="tspan7391-0" gorn="0.3.0.0.0.218.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5316-9" stroke-width="1" gorn="0.3.0.0.0.219" fill-opacity="1">
+                        <text  x="29.967262" y="767.14612" id="tspan7387-1" gorn="0.3.0.0.0.219.0"> 5V</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5318-5" stroke-width="1" gorn="0.3.0.0.0.220" fill-opacity="1">
+                        <text  x="43.036598" y="767.14612" id="tspan7383-7" gorn="0.3.0.0.0.220.0"> 3V</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5320-2" stroke-width="1" gorn="0.3.0.0.0.221" fill-opacity="1">
+                        <text  x="56.105927" y="767.14612" id="tspan7379-6" gorn="0.3.0.0.0.221.0">PH0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5322-1" stroke-width="1" gorn="0.3.0.0.0.222" fill-opacity="1">
+                        <text  x="69.17527" y="767.14612" id="tspan7375-3" gorn="0.3.0.0.0.222.0">PC14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5324-6" stroke-width="1" gorn="0.3.0.0.0.223" fill-opacity="1">
+                        <text  x="82.244598" y="767.14612" id="tspan7371-4" gorn="0.3.0.0.0.223.0">PE6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5326-3" stroke-width="1" gorn="0.3.0.0.0.224" fill-opacity="1">
+                        <text  x="95.313927" y="767.14612" id="tspan7367-5" gorn="0.3.0.0.0.224.0">PE4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5328-5" stroke-width="1" gorn="0.3.0.0.0.225" fill-opacity="1">
+                        <text  x="108.3833" y="767.14612" id="tspan7363-6" gorn="0.3.0.0.0.225.0">PE2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5330-5" stroke-width="1" gorn="0.3.0.0.0.226" fill-opacity="1">
+                        <text  x="121.4526" y="767.14612" id="tspan7359-6" gorn="0.3.0.0.0.226.0">PE0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5332-5" stroke-width="1" gorn="0.3.0.0.0.227" fill-opacity="1">
+                        <text  x="134.52194" y="767.14612" id="tspan7355-2" gorn="0.3.0.0.0.227.0">PB8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5334-4" stroke-width="1" gorn="0.3.0.0.0.228" fill-opacity="1">
+                        <text  x="147.59128" y="767.14612" id="tspan7351-2" gorn="0.3.0.0.0.228.0">BOOT</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5336-2" stroke-width="1" gorn="0.3.0.0.0.229" fill-opacity="1">
+                        <text  x="160.66064" y="767.14612" id="tspan7347-0" gorn="0.3.0.0.0.229.0">PB6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5338-6" stroke-width="1" gorn="0.3.0.0.0.230" fill-opacity="1">
+                        <text  x="173.72998" y="767.14612" id="tspan7343-5" gorn="0.3.0.0.0.230.0">PB4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5340-9" stroke-width="1" gorn="0.3.0.0.0.231" fill-opacity="1">
+                        <text  x="186.79932" y="767.14612" id="tspan7339-2" gorn="0.3.0.0.0.231.0">PD7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5342-5" stroke-width="1" gorn="0.3.0.0.0.232" fill-opacity="1">
+                        <text  x="199.86865" y="767.14612" id="tspan7335-4" gorn="0.3.0.0.0.232.0">PD5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5344-0" stroke-width="1" gorn="0.3.0.0.0.233" fill-opacity="1">
+                        <text  x="212.93799" y="767.14612" id="tspan7331-5" gorn="0.3.0.0.0.233.0">PD3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5346-5" stroke-width="1" gorn="0.3.0.0.0.234" fill-opacity="1">
+                        <text  x="226.00732" y="767.14612" id="tspan7327-3" gorn="0.3.0.0.0.234.0">PD1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5348-1" stroke-width="1" gorn="0.3.0.0.0.235" fill-opacity="1">
+                        <text  x="239.07666" y="767.14612" id="tspan7323-2" gorn="0.3.0.0.0.235.0">PC12</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5350-8" stroke-width="1" gorn="0.3.0.0.0.236" fill-opacity="1">
+                        <text  x="252.146" y="767.14612" id="tspan7319-8" gorn="0.3.0.0.0.236.0">PC10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5352-5" stroke-width="1" gorn="0.3.0.0.0.237" fill-opacity="1">
+                        <text  x="265.21533" y="767.14612" id="tspan7315-0" gorn="0.3.0.0.0.237.0">PA14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5354-8" stroke-width="1" gorn="0.3.0.0.0.238" fill-opacity="1">
+                        <text  x="278.28464" y="767.14612" id="tspan7311-9" gorn="0.3.0.0.0.238.0">PA10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5356-2" stroke-width="1" gorn="0.3.0.0.0.239" fill-opacity="1">
+                        <text  x="291.35397" y="767.14612" id="tspan7307-4" gorn="0.3.0.0.0.239.0">PA8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5358-2" stroke-width="1" gorn="0.3.0.0.0.240" fill-opacity="1">
+                        <text  x="304.42331" y="767.14612" id="tspan7303-0" gorn="0.3.0.0.0.240.0">PC8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5360-1" stroke-width="1" gorn="0.3.0.0.0.241" fill-opacity="1">
+                        <text  x="317.49265" y="767.14612" id="tspan7299-8" gorn="0.3.0.0.0.241.0">PC6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5362-8" stroke-width="1" gorn="0.3.0.0.0.242" fill-opacity="1">
+                        <text  x="330.56198" y="767.14612" id="tspan7295-4" gorn="0.3.0.0.0.242.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4139-6-8" stroke-width="1" gorn="0.3.0.0.0.243" fill-opacity="1">
+                        <text  x="331.32693" y="781.67615" id="tspan7291-9" gorn="0.3.0.0.0.243.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4869-8" stroke-width="1" gorn="0.3.0.0.0.244" fill-opacity="1">
+                        <text  x="331.32693" y="781.67615" id="tspan7287-8" gorn="0.3.0.0.0.244.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4871-7" stroke-width="1" gorn="0.3.0.0.0.245" fill-opacity="1">
+                        <text  x="331.32693" y="789.23962" id="tspan7283-0" gorn="0.3.0.0.0.245.0"> 5V</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4873-5" stroke-width="1" gorn="0.3.0.0.0.246" fill-opacity="1">
+                        <text  x="331.32693" y="796.8031" id="tspan7279-2" gorn="0.3.0.0.0.246.0"> 3V</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4875-5" stroke-width="1" gorn="0.3.0.0.0.247" fill-opacity="1">
+                        <text  x="331.32693" y="804.36652" id="tspan7275-0" gorn="0.3.0.0.0.247.0">PH1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4877-9" stroke-width="1" gorn="0.3.0.0.0.248" fill-opacity="1">
+                        <text  x="331.32693" y="811.92999" id="tspan7271-6" gorn="0.3.0.0.0.248.0">PC15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4879-8" stroke-width="1" gorn="0.3.0.0.0.249" fill-opacity="1">
+                        <text  x="331.32693" y="819.49347" id="tspan7267-3" gorn="0.3.0.0.0.249.0">PC13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4881-8" stroke-width="1" gorn="0.3.0.0.0.250" fill-opacity="1">
+                        <text  x="331.32693" y="827.05695" id="tspan7263-1" gorn="0.3.0.0.0.250.0">PE5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4883-9" stroke-width="1" gorn="0.3.0.0.0.251" fill-opacity="1">
+                        <text  x="331.32693" y="834.62042" id="tspan7259-6" gorn="0.3.0.0.0.251.0">PE3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4885-3" stroke-width="1" gorn="0.3.0.0.0.252" fill-opacity="1">
+                        <text  x="331.32693" y="842.1839" id="tspan7255-2" gorn="0.3.0.0.0.252.0">PE1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4887-1" stroke-width="1" gorn="0.3.0.0.0.253" fill-opacity="1">
+                        <text  x="331.32693" y="849.74738" id="tspan7251-9" gorn="0.3.0.0.0.253.0">PB9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4889-8" stroke-width="1" gorn="0.3.0.0.0.254" fill-opacity="1">
+                        <text  x="331.32693" y="857.31085" id="tspan7247-5" gorn="0.3.0.0.0.254.0">VDD</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4891-7" stroke-width="1" gorn="0.3.0.0.0.255" fill-opacity="1">
+                        <text  x="331.32693" y="864.87433" id="tspan7243-5" gorn="0.3.0.0.0.255.0">PB7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4893-1" stroke-width="1" gorn="0.3.0.0.0.256" fill-opacity="1">
+                        <text  x="331.32693" y="872.43781" id="tspan7239-3" gorn="0.3.0.0.0.256.0">PB5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4895-6" stroke-width="1" gorn="0.3.0.0.0.257" fill-opacity="1">
+                        <text  x="331.32693" y="880.00128" id="tspan7235-4" gorn="0.3.0.0.0.257.0">PB3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4897-7" stroke-width="1" gorn="0.3.0.0.0.258" fill-opacity="1">
+                        <text  x="331.32693" y="887.56476" id="tspan7231-6" gorn="0.3.0.0.0.258.0">PD6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4899-3" stroke-width="1" gorn="0.3.0.0.0.259" fill-opacity="1">
+                        <text  x="331.32693" y="895.12823" id="tspan7227-9" gorn="0.3.0.0.0.259.0">PD4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4901-7" stroke-width="1" gorn="0.3.0.0.0.260" fill-opacity="1">
+                        <text  x="331.32693" y="902.69171" id="tspan7223-6" gorn="0.3.0.0.0.260.0">PD2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4903-3" stroke-width="1" gorn="0.3.0.0.0.261" fill-opacity="1">
+                        <text  x="331.32693" y="910.25519" id="tspan7219-5" gorn="0.3.0.0.0.261.0">PD0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4905-9" stroke-width="1" gorn="0.3.0.0.0.262" fill-opacity="1">
+                        <text  x="331.32693" y="917.81866" id="tspan7215-7" gorn="0.3.0.0.0.262.0">PC11</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4907-0" stroke-width="1" gorn="0.3.0.0.0.263" fill-opacity="1">
+                        <text  x="331.32693" y="925.38214" id="tspan7211-0" gorn="0.3.0.0.0.263.0">PA15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4909-0" stroke-width="1" gorn="0.3.0.0.0.264" fill-opacity="1">
+                        <text  x="331.32693" y="932.94562" id="tspan7207-4" gorn="0.3.0.0.0.264.0">PA13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4911-3" stroke-width="1" gorn="0.3.0.0.0.265" fill-opacity="1">
+                        <text  x="331.32693" y="940.50909" id="tspan7203-7" gorn="0.3.0.0.0.265.0">PA9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4913-0" stroke-width="1" gorn="0.3.0.0.0.266" fill-opacity="1">
+                        <text  x="331.32693" y="948.07257" id="tspan7199-0" gorn="0.3.0.0.0.266.0">PC9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4915-7" stroke-width="1" gorn="0.3.0.0.0.267" fill-opacity="1">
+                        <text  x="331.32693" y="955.63605" id="tspan7195-9" gorn="0.3.0.0.0.267.0">PC7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4917-6" stroke-width="1" gorn="0.3.0.0.0.268" fill-opacity="1">
+                        <text  x="331.32693" y="963.19952" id="tspan7191-3" gorn="0.3.0.0.0.268.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use5314-3-5" stroke-width="1" gorn="0.3.0.0.0.269" fill-opacity="1">
+                        <text  x="16.897934" y="975.84613" id="tspan7187-5" gorn="0.3.0.0.0.269.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6179-5" stroke-width="1" gorn="0.3.0.0.0.270" fill-opacity="1">
+                        <text  x="16.897934" y="975.84613" id="tspan7183-1" gorn="0.3.0.0.0.270.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6181-0" stroke-width="1" gorn="0.3.0.0.0.271" fill-opacity="1">
+                        <text  x="29.967262" y="975.84613" id="tspan7179-5" gorn="0.3.0.0.0.271.0">VDD</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6183-2" stroke-width="1" gorn="0.3.0.0.0.272" fill-opacity="1">
+                        <text  x="43.036598" y="975.84613" id="tspan7175-5" gorn="0.3.0.0.0.272.0">NRST</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6185-4" stroke-width="1" gorn="0.3.0.0.0.273" fill-opacity="1">
+                        <text  x="56.105927" y="975.84613" id="tspan7171-8" gorn="0.3.0.0.0.273.0">PC0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6187-7" stroke-width="1" gorn="0.3.0.0.0.274" fill-opacity="1">
+                        <text  x="69.17527" y="975.84613" id="tspan7167-7" gorn="0.3.0.0.0.274.0">PC2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6189-1" stroke-width="1" gorn="0.3.0.0.0.275" fill-opacity="1">
+                        <text  x="82.244598" y="975.84613" id="tspan7163-9" gorn="0.3.0.0.0.275.0">PA0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6191-9" stroke-width="1" gorn="0.3.0.0.0.276" fill-opacity="1">
+                        <text  x="95.313927" y="975.84613" id="tspan7159-3" gorn="0.3.0.0.0.276.0">PA2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6193-6" stroke-width="1" gorn="0.3.0.0.0.277" fill-opacity="1">
+                        <text  x="108.3833" y="975.84613" id="tspan7155-0" gorn="0.3.0.0.0.277.0">PA4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6195-1" stroke-width="1" gorn="0.3.0.0.0.278" fill-opacity="1">
+                        <text  x="121.4526" y="975.84613" id="tspan7151-7" gorn="0.3.0.0.0.278.0">PA6</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6197-3" stroke-width="1" gorn="0.3.0.0.0.279" fill-opacity="1">
+                        <text  x="134.52194" y="975.84613" id="tspan7147-4" gorn="0.3.0.0.0.279.0">PC4</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6199-2" stroke-width="1" gorn="0.3.0.0.0.280" fill-opacity="1">
+                        <text  x="147.59128" y="975.84613" id="tspan7143-7" gorn="0.3.0.0.0.280.0">PB0</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6201-6" stroke-width="1" gorn="0.3.0.0.0.281" fill-opacity="1">
+                        <text  x="160.66064" y="975.84613" id="tspan7139-5" gorn="0.3.0.0.0.281.0">PB2</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6203-7" stroke-width="1" gorn="0.3.0.0.0.282" fill-opacity="1">
+                        <text  x="173.72998" y="975.84613" id="tspan7135-1" gorn="0.3.0.0.0.282.0">PE8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6205-8" stroke-width="1" gorn="0.3.0.0.0.283" fill-opacity="1">
+                        <text  x="186.79932" y="975.84613" id="tspan7131-7" gorn="0.3.0.0.0.283.0">PE10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6207-3" stroke-width="1" gorn="0.3.0.0.0.284" fill-opacity="1">
+                        <text  x="199.86865" y="975.84613" id="tspan7127-3" gorn="0.3.0.0.0.284.0">PE12</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6209-1" stroke-width="1" gorn="0.3.0.0.0.285" fill-opacity="1">
+                        <text  x="212.93799" y="975.84613" id="tspan7123-3" gorn="0.3.0.0.0.285.0">PE14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6211-8" stroke-width="1" gorn="0.3.0.0.0.286" fill-opacity="1">
+                        <text  x="226.00732" y="975.84613" id="tspan7119-6" gorn="0.3.0.0.0.286.0">PB10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6213-5" stroke-width="1" gorn="0.3.0.0.0.287" fill-opacity="1">
+                        <text  x="239.07666" y="975.84613" id="tspan7115-4" gorn="0.3.0.0.0.287.0">PB12</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6215-1" stroke-width="1" gorn="0.3.0.0.0.288" fill-opacity="1">
+                        <text  x="252.146" y="975.84613" id="tspan7111-6" gorn="0.3.0.0.0.288.0">PB14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6217-1" stroke-width="1" gorn="0.3.0.0.0.289" fill-opacity="1">
+                        <text  x="265.21533" y="975.84613" id="tspan7107-4" gorn="0.3.0.0.0.289.0">PD8</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6219-5" stroke-width="1" gorn="0.3.0.0.0.290" fill-opacity="1">
+                        <text  x="278.28464" y="975.84613" id="tspan7103-1" gorn="0.3.0.0.0.290.0">PD10</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6221-1" stroke-width="1" gorn="0.3.0.0.0.291" fill-opacity="1">
+                        <text  x="291.35397" y="975.84613" id="tspan7099-2" gorn="0.3.0.0.0.291.0">PD12</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="3.75" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6223-6" stroke-width="1" gorn="0.3.0.0.0.292" fill-opacity="1">
+                        <text  x="304.42331" y="975.84613" id="tspan7095-1" gorn="0.3.0.0.0.292.0">PD14</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6225-6" stroke-width="1" gorn="0.3.0.0.0.293" fill-opacity="1">
+                        <text  x="317.49265" y="975.84613" id="tspan7091-2" gorn="0.3.0.0.0.293.0"> NC</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use6227-1" stroke-width="1" gorn="0.3.0.0.0.294" fill-opacity="1">
+                        <text  x="330.56198" y="975.84613" id="tspan7087-4" gorn="0.3.0.0.0.294.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4141-8" stroke-width="1" gorn="0.3.0.0.0.295" fill-opacity="1">
+                        <text  x="16.89769" y="789.23938" id="tspan7083-2" gorn="0.3.0.0.0.295.0">VDD</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4143-2" stroke-width="1" gorn="0.3.0.0.0.296" fill-opacity="1">
+                        <text  x="16.89769" y="796.80286" id="tspan7079-4" gorn="0.3.0.0.0.296.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4145-6" stroke-width="1" gorn="0.3.0.0.0.297" fill-opacity="1">
+                        <text  x="16.89769" y="804.36627" id="tspan7075-1" gorn="0.3.0.0.0.297.0">PC1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4147-3" stroke-width="1" gorn="0.3.0.0.0.298" fill-opacity="1">
+                        <text  x="16.89769" y="811.92975" id="tspan7071-5" gorn="0.3.0.0.0.298.0">PC3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4149-3" stroke-width="1" gorn="0.3.0.0.0.299" fill-opacity="1">
+                        <text  x="16.89769" y="819.49323" id="tspan7067-8" gorn="0.3.0.0.0.299.0">PA1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4151-0" stroke-width="1" gorn="0.3.0.0.0.300" fill-opacity="1">
+                        <text  x="16.89769" y="827.0567" id="tspan7063-2" gorn="0.3.0.0.0.300.0">PA3</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4153-0" stroke-width="1" gorn="0.3.0.0.0.301" fill-opacity="1">
+                        <text  x="16.89769" y="834.62018" id="tspan7059-3" gorn="0.3.0.0.0.301.0">PA5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4155-1" stroke-width="1" gorn="0.3.0.0.0.302" fill-opacity="1">
+                        <text  x="16.89769" y="842.18365" id="tspan7055-0" gorn="0.3.0.0.0.302.0">PA7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4157-6" stroke-width="1" gorn="0.3.0.0.0.303" fill-opacity="1">
+                        <text  x="16.89769" y="849.74713" id="tspan7051-3" gorn="0.3.0.0.0.303.0">PC5</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4159-9" stroke-width="1" gorn="0.3.0.0.0.304" fill-opacity="1">
+                        <text  x="16.89769" y="857.31061" id="tspan7047-2" gorn="0.3.0.0.0.304.0">PB1</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4161-4" stroke-width="1" gorn="0.3.0.0.0.305" fill-opacity="1">
+                        <text  x="16.89769" y="864.87408" id="tspan7043-2" gorn="0.3.0.0.0.305.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4163-4" stroke-width="1" gorn="0.3.0.0.0.306" fill-opacity="1">
+                        <text  x="16.89769" y="872.43756" id="tspan7039-3" gorn="0.3.0.0.0.306.0">PE7</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4165-9" stroke-width="1" gorn="0.3.0.0.0.307" fill-opacity="1">
+                        <text  x="16.89769" y="880.00104" id="tspan7035-9" gorn="0.3.0.0.0.307.0">PE9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4167-3" stroke-width="1" gorn="0.3.0.0.0.308" fill-opacity="1">
+                        <text  x="16.89769" y="887.56451" id="tspan7031-6" gorn="0.3.0.0.0.308.0">PE11</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4169-6" stroke-width="1" gorn="0.3.0.0.0.309" fill-opacity="1">
+                        <text  x="16.89769" y="895.12799" id="tspan7027-5" gorn="0.3.0.0.0.309.0">PE13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4171-3" stroke-width="1" gorn="0.3.0.0.0.310" fill-opacity="1">
+                        <text  x="16.89769" y="902.69147" id="tspan7023-9" gorn="0.3.0.0.0.310.0">PE15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4173-4" stroke-width="1" gorn="0.3.0.0.0.311" fill-opacity="1">
+                        <text  x="16.89769" y="910.25494" id="tspan7019-8" gorn="0.3.0.0.0.311.0">PB11</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4175-8" stroke-width="1" gorn="0.3.0.0.0.312" fill-opacity="1">
+                        <text  x="16.89769" y="917.81842" id="tspan7015-8" gorn="0.3.0.0.0.312.0">PB13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4177-0" stroke-width="1" gorn="0.3.0.0.0.313" fill-opacity="1">
+                        <text  x="16.89769" y="925.3819" id="tspan7011-4" gorn="0.3.0.0.0.313.0">PB15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4179-3" stroke-width="1" gorn="0.3.0.0.0.314" fill-opacity="1">
+                        <text  x="16.89769" y="932.94537" id="tspan7007-3" gorn="0.3.0.0.0.314.0">PD9</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4181-1" stroke-width="1" gorn="0.3.0.0.0.315" fill-opacity="1">
+                        <text  x="16.89769" y="940.50885" id="tspan7003-8" gorn="0.3.0.0.0.315.0">PD11</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4183-6" stroke-width="1" gorn="0.3.0.0.0.316" fill-opacity="1">
+                        <text  x="16.89769" y="948.07233" id="tspan6999-3" gorn="0.3.0.0.0.316.0">PD13</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4185-7" stroke-width="1" gorn="0.3.0.0.0.317" fill-opacity="1">
+                        <text  x="16.89769" y="955.6358" id="tspan6995-3" gorn="0.3.0.0.0.317.0">PD15</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="use4187-2" stroke-width="1" gorn="0.3.0.0.0.318" fill-opacity="1">
+                        <text  x="16.89769" y="963.19928" id="tspan6991-2" gorn="0.3.0.0.0.318.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#808080" font-size="5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="text3975-4" stroke-width="1" gorn="0.3.0.0.0.319" fill-opacity="1">
+                        <text  x="16.89769" y="781.6759" id="tspan3977-6" gorn="0.3.0.0.0.319.0">GND</text>
+                    </g>
+                    <g stroke-opacity="1"  fill="#000000" font-size="17.5" stroke="none" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="text7401-6" stroke-width="1" gorn="0.3.0.0.0.320" fill-opacity="1">
+                        <text  x="96.272667" y="872.92584" id="tspan7403-5" gorn="0.3.0.0.0.320.0">STM32F4 DISCOVERY</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="ds18B20">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun Load Sensor Combinator" modelIndex="85469839" path="D:/Zen3515/Downloads/Compressed/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/SparkFun Load Sensor Combinator.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DS18B20_fixed" modelIndex="85469841" path="D:/Zen3515/Downloads/Compressed/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/DS18B20.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
