@@ -63,6 +63,7 @@
 #include "tm_stm32_onewire.h"
 #include "stdlib.h"
 #include "string.h"
+#include "math.h"
 
 /* USER CODE END Includes */
 
@@ -77,9 +78,13 @@ osThreadId defaultTaskHandle;
 /* Private variables ---------------------------------------------------------*/
 char rx_buff[10] = "IDLE";
 char tx_buff[10] = "IDLE"; //SEND only temperature
+osTimerId ledRunningTimer;
 osTimerId fanTimerID;
 osTimerId DS18B20TimerID;
 osTimerId rgbRainbowTimerID;
+osTimerId temperatureTimerID;
+osTimerId staticColorTimerID;
+osTimerId twoFadeTimerID;
 osTimerId UARTListenTimerID;
 //osThreadId fanThreadID;
 //osThreadId DS18B20ThreadID;
@@ -91,6 +96,7 @@ uint16_t fanSpeedP4[2] = {80, 999};
 uint16_t const MAXFANSPEED = 999;
 uint8_t const NORMALTEMPERATURE = 30;
 uint8_t const HOTTEMPERATURE = 55;
+uint8_t ledStep = 1;
 
 /* Onewire structure */
 TM_OneWire_t OW;
@@ -114,13 +120,6 @@ RGBMode rgbMode = RAINBOW;
 uint16_t decColour = 0;
 uint16_t incColour = 1;
 uint16_t rainBowCounter = 0;
-//typedef struct Color {uint16_t red; uint16_t green; uint16_t blue;} Color_t;
-//Color_t currentColor = {999,0,0}; // start with red
-//Color_t const RED = {999, 0, 0};
-//Color_t const GREEN = {0, 999, 0};
-//Color_t const BLUE = {0, 0, 999};
-//Color_t const YELLOW = {999, 999, 0};
-//Color_t const AQUA = {0, 999, 999};
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -138,20 +137,48 @@ void HAL_TIM_MspPostInit(TIM_HandleTypeDef *htim);
  * cmd Example(Maximum value) : F100, LS10 LM03
  */
 //void changeFanSpeed(uint16_t speed_percent);
-
+void reverse(char *str, int len);
+int intToStr(int x, char str[], int d);
+void ftoa(float n, char *res, int afterpoint);
+void resetRainbowTask();
 void processCommand(char* cmd){
+	cmd[4] = '\0';
 	if(cmd[0] == 'F'){ //F
 		//changeFanSpeed((uint16_t)atoi(cmd + 1));
 		cmdStage = WAIT_FOR_POINT1;
 		HAL_UART_Receive_IT(&huart2, (uint8_t *)rx_buff, 6); //080100
 	} else if(cmd[0] == 'L'){ //L
 		if(cmd[1] == 'S'){ //LS
-			//TODO set new speed
+			ledStep = (atoi(cmd + 2));
+			if(rgbMode == RAINBOW){
+				resetRainbowTask();
+			}
 		}else {//LM
 			rgbMode = (RGBMode)(atoi(cmd + 3));
 			if(rgbMode != RAINBOW){
 				cmdStage = WAIT_FOR_COLOR1;
 				HAL_UART_Receive_IT(&huart2, (uint8_t *)rx_buff, 9);
+			}
+			osTimerStop(ledRunningTimer);
+			switch(rgbMode){
+			case RAINBOW:
+				resetRainbowTask();
+				osTimerStart(rgbRainbowTimerID, 5);
+				ledRunningTimer = rgbRainbowTimerID;
+				break;
+			case TEMPERATURE:
+				osTimerStart(temperatureTimerID, 100);
+				ledRunningTimer = temperatureTimerID;
+				break;
+			case STATIC_COLOR:
+				osTimerStart(staticColorTimerID, 1000);
+				ledRunningTimer = staticColorTimerID;
+				break;
+			case TWOFADE:
+				rainBowCounter = 0;
+				osTimerStart(twoFadeTimerID, 5);
+				ledRunningTimer = twoFadeTimerID;
+				break;
 			}
 		}
 	}
@@ -166,6 +193,7 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
 		processCommand(copybuf);
 		break;
 	case WAIT_FOR_COLOR1:
+		copybuf[10] = '\0';
 		rgbColour[2] = atoi(copybuf + 6);
 		copybuf[6] = '\0';
 		rgbColour[1] = atoi(copybuf + 3);
@@ -175,6 +203,7 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
 		HAL_UART_Receive_IT(&huart2, (uint8_t *)rx_buff, 9);
 		break;
 	case WAIT_FOR_COLOR2:
+		copybuf[10] = '\0';
 		rgbColour2[2] = atoi(copybuf + 6);
 		copybuf[6] = '\0';
 		rgbColour2[1] = atoi(copybuf + 3);
@@ -183,26 +212,32 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
 		cmdStage = WAIT_FOR_COMMAND;
 		break;
 	case WAIT_FOR_POINT1:
-		fanSpeedP1[1] = atoi(copybuf + 3)/100*MAXFANSPEED;
+		copybuf[7] = '\0';
+		fanSpeedP1[1] = (atoi(copybuf + 3)/100.0)*MAXFANSPEED;
 		copybuf[3] = '\0';
 		fanSpeedP1[0] = atoi(copybuf);
 		cmdStage = WAIT_FOR_POINT2;
-		//todo hal uart recive
+		HAL_UART_Receive_IT(&huart2, (uint8_t *)rx_buff, 6);
 		break;
 	case WAIT_FOR_POINT2:
-		fanSpeedP2[1] = atoi(copybuf + 3)/100*MAXFANSPEED;
+		copybuf[7] = '\0';
+		fanSpeedP2[1] = (atoi(copybuf + 3)/100.0)*MAXFANSPEED;
 		copybuf[3] = '\0';
 		fanSpeedP2[0] = atoi(copybuf);
 		cmdStage = WAIT_FOR_POINT3;
+		HAL_UART_Receive_IT(&huart2, (uint8_t *)rx_buff, 6);
 		break;
 	case WAIT_FOR_POINT3:
-		fanSpeedP3[1] = atoi(copybuf + 3)/100*MAXFANSPEED;
+		copybuf[7] = '\0';
+		fanSpeedP3[1] = (atoi(copybuf + 3)/100.0)*MAXFANSPEED;
 		copybuf[3] = '\0';
 		fanSpeedP3[0] = atoi(copybuf);
 		cmdStage = WAIT_FOR_POINT4;
+		HAL_UART_Receive_IT(&huart2, (uint8_t *)rx_buff, 6);
 		break;
 	case WAIT_FOR_POINT4:
-		fanSpeedP4[1] = atoi(copybuf + 3)/100*MAXFANSPEED;
+		copybuf[7] = '\0';
+		fanSpeedP4[1] = (atoi(copybuf + 3)/100.0)*MAXFANSPEED;
 		copybuf[3] = '\0';
 		fanSpeedP4[0] = atoi(copybuf);
 		cmdStage = WAIT_FOR_COMMAND;
@@ -215,18 +250,65 @@ void UARTListenTask(void const * argument){
 	if(cmdStage == WAIT_FOR_COMMAND){
 		HAL_UART_Receive_IT(&huart2, (uint8_t *)rx_buff, 4);
 	}
-//	switch(cmdStage){
-//		case WAIT_FOR_COMMAND:
-////			listenSize = 4;
-//			break;
-//		case WAIT_FOR_COLOR1:
-////			listenSize = 9;
-//			break;
-//		case WAIT_FOR_COLOR2:
-////			listenSize = 9;
-//			break;
-//	}
-//	HAL_USART_Revieve_IT(&huart2, (uint8_t *)rx_buff, listenSize, 250);
+}
+
+// reverses a string 'str' of length 'len'
+void reverse(char *str, int len)
+{
+    int i=0, j=len-1, temp;
+    while (i<j)
+    {
+        temp = str[i];
+        str[i] = str[j];
+        str[j] = temp;
+        i++; j--;
+    }
+}
+ // Converts a given integer x to string str[].  d is the number
+ // of digits required in output. If d is more than the number
+ // of digits in x, then 0s are added at the beginning.
+int intToStr(int x, char str[], int d)
+{
+    int i = 0;
+    while (x)
+    {
+        str[i++] = (x%10) + '0';
+        x = x/10;
+    }
+
+    // If number of digits required is more, then
+    // add 0s at the beginning
+    while (i < d)
+        str[i++] = '0';
+
+    reverse(str, i);
+    str[i] = '\0';
+    return i;
+}
+// Converts a floating point number to string.
+void ftoa(float n, char *res, int afterpoint)
+{
+    // Extract integer part
+    int ipart = (int)n;
+
+    // Extract floating part
+    float fpart = n - (float)ipart;
+
+    // convert integer part to string
+    int i = intToStr(ipart, res, 0);
+
+    // check for display option after point
+    if (afterpoint != 0)
+    {
+        res[i] = '.';  // add dot
+
+        // Get the value of fraction part upto given no.
+        // of points after dot. The third parameter is needed
+        // to handle cases like 233.007
+        fpart = fpart * pow(10, afterpoint);
+
+        intToStr((int)fpart, res + i + 1, afterpoint);
+    }
 }
 
 void DS18B20Task(void const * argument){
@@ -249,6 +331,10 @@ void DS18B20Task(void const * argument){
 //					//TM_DISCO_LedOff(LED_RED);
 //					htim4.Instance->CCR4 = 0;
 //				}
+				char temp[10];
+				ftoa(temperature, temp, 4);
+				sprintf(tx_buff, "%s\n", temp);
+				HAL_UART_Transmit(&huart2, (uint8_t*) tx_buff, strlen(tx_buff), 500);
 			} else {
 				/* CRC failed, hardware problems on data line */
 			}
@@ -256,6 +342,7 @@ void DS18B20Task(void const * argument){
 	}
 //	osDelay(1000);
 }
+
 void fanTask(void const * argument){
 	//Blue LED
 //	osSemaphoreWait(binSemFanSpeedID, 200);
@@ -275,21 +362,24 @@ void fanTask(void const * argument){
 //	osDelay(200);
 }
 
-//void changeFanSpeed(uint16_t speed_percent){
-//	osSemaphoreWait(binSemFanSpeedID, 200);
-//	fanSpeed = speed_percent*MAXFANSPEED;
-//	osSemaphoreRelease(binSemFanSpeedID);
-//}
+void resetRainbowTask(){
+	rgbColour[0] = 999;
+	rgbColour[1] = 000;
+	rgbColour[2] = 000;
+	decColour = 0;
+	incColour = 1;
+	rainBowCounter = 0;
+}
 
 void rgbStrip_RainbowTask(void const * argument){
-	rgbColour[decColour] -= 1;
-	rgbColour[incColour] += 1;
+	rgbColour[decColour] -= ledStep;
+	rgbColour[incColour] += ledStep;
 	htim4.Instance->CCR1 = rgbColour[0];
 	htim4.Instance->CCR2 = rgbColour[1];
 	htim4.Instance->CCR3 = rgbColour[2];
 
-	rainBowCounter += 1;
-	if(rainBowCounter >= 999){
+	rainBowCounter += ledStep;
+	if(rainBowCounter >= 999 - ledStep){
 		rainBowCounter = 0;
 		decColour = (decColour + 1) % 3;
 		incColour = decColour == 2 ? 0 : decColour + 1;
@@ -300,16 +390,20 @@ void rgbStrip_RainbowTask(void const * argument){
 void rgbStrip_TemperatureTask(void const * argument){
 	//TODO two color fading
 	if(temperature < NORMALTEMPERATURE){
-
-	} else if(temperature > HOTTEMPERATURE){
-
+		htim4.Instance->CCR1 = rgbColour[0];
+		htim4.Instance->CCR2 = rgbColour[1];
+		htim4.Instance->CCR3 = rgbColour[2];
+	} else if(temperature < HOTTEMPERATURE){
+		float tempDiff = (temperature - NORMALTEMPERATURE) / (HOTTEMPERATURE - NORMALTEMPERATURE);
+		htim4.Instance->CCR1 = rgbColour[0] + ((rgbColour2[0] - rgbColour[0])*tempDiff);
+		htim4.Instance->CCR2 = rgbColour[1] + ((rgbColour2[1] - rgbColour[1])*tempDiff);
+		htim4.Instance->CCR3 = rgbColour[2] + ((rgbColour2[2] - rgbColour[2])*tempDiff);
 	} else {
-
+		htim4.Instance->CCR1 = rgbColour2[0];
+		htim4.Instance->CCR2 = rgbColour2[1];
+		htim4.Instance->CCR3 = rgbColour2[2];
 	}
-	htim4.Instance->CCR1 = rgbColour[0];
-	htim4.Instance->CCR2 = rgbColour[1];
-	htim4.Instance->CCR3 = rgbColour[2];
-	osDelay(1000);
+//	osDelay(1000);
 }
 
 void rgbStrip_StaticTask(void const * argument){
@@ -321,9 +415,20 @@ void rgbStrip_StaticTask(void const * argument){
 
 void rgbStrip_TwoFadeTask(void const * argument){
 	//TODO two fading color
-	htim4.Instance->CCR1 = rgbColour[0];
-	htim4.Instance->CCR2 = rgbColour[1];
-	htim4.Instance->CCR3 = rgbColour[2];
+	rainBowCounter += ledStep;
+
+	if(rainBowCounter <= 1000){
+		htim4.Instance->CCR1 = rgbColour[0] + ((rgbColour2[0] - rgbColour[0])*(rainBowCounter/1000.0));
+		htim4.Instance->CCR2 = rgbColour[1] + ((rgbColour2[1] - rgbColour[1])*(rainBowCounter/1000.0));
+		htim4.Instance->CCR3 = rgbColour[2] + ((rgbColour2[2] - rgbColour[2])*(rainBowCounter/1000.0));
+	} else if (rainBowCounter <= 2000){
+		uint16_t rbc = rainBowCounter - 1000;
+		htim4.Instance->CCR1 = rgbColour2[0] + ((rgbColour[0] - rgbColour2[0])*(rbc/1000.0));
+		htim4.Instance->CCR2 = rgbColour2[1] + ((rgbColour[1] - rgbColour2[1])*(rbc/1000.0));
+		htim4.Instance->CCR3 = rgbColour2[2] + ((rgbColour[2] - rgbColour2[2])*(rbc/1000.0));
+	} else {
+		rainBowCounter = 0;
+	}
 }
 /* USER CODE END PFP */
 
@@ -617,13 +722,6 @@ void StartDefaultTask(void const * argument)
 {
 
   /* USER CODE BEGIN 5 */
-
-//	osThreadDef(fanThread, fanTask, osPriorityNormal, 0, 128);
-//	fanThreadID = osThreadCreate(osThread(fanThread), NULL);
-//
-//	osThreadDef(DS18B20Thread, DS18B20Task, osPriorityNormal, 0, 128);
-//	DS18B20ThreadID = osThreadCreate(osThread(DS18B20Thread), NULL);
-
 	osTimerDef(UARTListenTimer, UARTListenTask);
 	UARTListenTimerID = osTimerCreate(osTimer(UARTListenTimer), osTimerPeriodic, NULL);
 	osTimerStart(UARTListenTimerID, 300);
@@ -634,41 +732,26 @@ void StartDefaultTask(void const * argument)
 
 	osTimerDef(DS18B20Timer, DS18B20Task);
 	DS18B20TimerID = osTimerCreate(osTimer(DS18B20Timer), osTimerPeriodic, NULL);
-	osTimerStart(DS18B20TimerID, 1000);
+	osTimerStart(DS18B20TimerID, 100);
 
+	//LED Strip
 	osTimerDef(rgbRainbowTimer, rgbStrip_RainbowTask);
 	rgbRainbowTimerID = osTimerCreate(osTimer(rgbRainbowTimer), osTimerPeriodic, NULL);
-	osTimerStart(rgbRainbowTimerID, 5);
 
-	//TODO create rainbow task as default mode
+	osTimerDef(temperatureTimer, rgbStrip_TemperatureTask);
+	temperatureTimerID = osTimerCreate(osTimer(temperatureTimer), osTimerPeriodic, NULL);
+
+	osTimerDef(staticColorTimer, rgbStrip_StaticTask);
+	staticColorTimerID = osTimerCreate(osTimer(staticColorTimer), osTimerOnce, NULL);
+
+	osTimerDef(twoFadeTimer, rgbStrip_TwoFadeTask);
+	twoFadeTimerID = osTimerCreate(osTimer(twoFadeTimer), osTimerPeriodic, NULL);
+
+	osTimerStart(rgbRainbowTimerID, 5);
+	ledRunningTimer = rgbRainbowTimerID;
 
   /* Infinite loop */
   for(;;){
-//	  	/* Check if any device is connected */
-//	    if (TM_OneWire_First(&OW)) {
-//	  	/* Set LED GREEN */
-//	  	htim4.Instance->CCR1 = 999;
-//	      //TM_DISCO_LedOn(LED_GREEN);
-//
-//	      /* Read ROM number */
-//	      TM_OneWire_GetFullROM(&OW, DS_ROM);
-//	    } else {
-//	      /* Set LED RED */
-//	  	htim4.Instance->CCR2 = 99;
-//	    }
-//
-//	     /* Start temp conversion */
-//	     if (TM_DS18B20_Is(DS_ROM)) {
-//	      /* Set resolution */
-//	      TM_DS18B20_SetResolution(&OW, DS_ROM, TM_DS18B20_Resolution_12bits);
-//
-//	      /* Set high and low alarms */
-//	      TM_DS18B20_SetAlarmHighTemperature(&OW, DS_ROM, 30);
-//	      TM_DS18B20_SetAlarmLowTemperature(&OW, DS_ROM, 10);
-//
-//	      /* Start conversion on all sensors */
-//	      TM_DS18B20_StartAll(&OW);
-//	     }
 
     osDelay(1);
   }
