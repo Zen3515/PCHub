@@ -2,27 +2,30 @@
 <module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
     <title>My Parts</title>
     <instances>
-        <instance moduleIdRef="NodeMCU v1_ec83652eb5f35f6ec40972b5e32f3bd9_1" modelIndex="85411406" path="D:/Zen3515/Documents/Fritzing/parts/user/NodeMCU v1_ec83652eb5f35f6ec40972b5e32f3bd9_1.fzp" flippedSMD="true">
+        <instance moduleIdRef="NodeMCU v1_ec83652eb5f35f6ec40972b5e32f3bd9_1" modelIndex="85411406" path="C:/Users/Zen35/Documents/Fritzing/parts/user/NodeMCU v1_ec83652eb5f35f6ec40972b5e32f3bd9_1.fzp" flippedSMD="true">
             <property name="flippedSMD" value="true"/>
             <views/>
         </instance>
-        <instance moduleIdRef="STM32F4 DISCOVERY_9652fe806b0b4ac830433058db215e1f_9" modelIndex="85411408" path="D:/Zen3515/Documents/Fritzing/parts/user/STM32F4 DISCOVERY_9652fe806b0b4ac830433058db215e1f_9.fzp">
+        <instance moduleIdRef="STM32F4 DISCOVERY_9652fe806b0b4ac830433058db215e1f_9" modelIndex="85411408" path="C:/Users/Zen35/Documents/Fritzing/parts/user/STM32F4 DISCOVERY_9652fe806b0b4ac830433058db215e1f_9.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="12V_6919f95bad879e6c757dafcfc6d4aa03_1" modelIndex="85411882" path="D:/Zen3515/Documents/Fritzing/parts/user/12V_6919f95bad879e6c757dafcfc6d4aa03_1.fzp">
+        <instance moduleIdRef="12V_6919f95bad879e6c757dafcfc6d4aa03_1" modelIndex="85411882" path="C:/Users/Zen35/Documents/Fritzing/parts/user/12V_6919f95bad879e6c757dafcfc6d4aa03_1.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="RGB Strip LED_Zen_66e989c7ecd95e75c9d4ef54c54e4fe4_1" modelIndex="85465216" path="D:/Zen3515/Documents/Fritzing/parts/user/RGB Strip LED_Zen_66e989c7ecd95e75c9d4ef54c54e4fe4_1.fzp" flippedSMD="true">
+        <instance moduleIdRef="RGB Strip LED_Zen_66e989c7ecd95e75c9d4ef54c54e4fe4_1" modelIndex="85465216" path="C:/Users/Zen35/Documents/Fritzing/parts/user/RGB Strip LED_Zen_66e989c7ecd95e75c9d4ef54c54e4fe4_1.fzp" flippedSMD="true">
             <property name="flippedSMD" value="true"/>
             <views/>
         </instance>
-        <instance moduleIdRef="L9110 H-bridge_02eed2341d1f9ec262679b574ab39474_11" modelIndex="85466678" path="D:/Zen3515/Documents/Fritzing/parts/user/L9110 H-bridge_02eed2341d1f9ec262679b574ab39474_11.fzp">
+        <instance moduleIdRef="L9110 H-bridge_02eed2341d1f9ec262679b574ab39474_11" modelIndex="85466678" path="C:/Users/Zen35/Documents/Fritzing/parts/user/L9110 H-bridge_02eed2341d1f9ec262679b574ab39474_11.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="Computer Fan_1f3374d2f230bed29c494485563c17e2_3" modelIndex="85467743" path="D:/Zen3515/Documents/Fritzing/parts/user/Computer Fan_1f3374d2f230bed29c494485563c17e2_3.fzp">
+        <instance moduleIdRef="Computer Fan_1f3374d2f230bed29c494485563c17e2_3" modelIndex="85467743" path="C:/Users/Zen35/Documents/Fritzing/parts/user/Computer Fan_1f3374d2f230bed29c494485563c17e2_3.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="dc050912ce400d56deb4f0ffcf1a38c5" modelIndex="85469846" path="D:/Zen3515/Documents/Fritzing/parts/user/DS18B20_Probe_Cable__6924c6075e35b6f972ac3ba69575e724.fzp">
+        <instance moduleIdRef="dc050912ce400d56deb4f0ffcf1a38c5" modelIndex="85469846" path="C:/Users/Zen35/Documents/Fritzing/parts/user/DS18B20_Probe_Cable__6924c6075e35b6f972ac3ba69575e724.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LLC_4_X_5_3_497f4025964a6efaf1d1eeee5a842690_4" modelIndex="85470990" path="C:/Users/Zen35/Documents/Fritzing/parts/user/LLC_4_X_5_3_497f4025964a6efaf1d1eeee5a842690_4.fzp">
             <views/>
         </instance>
     </instances>

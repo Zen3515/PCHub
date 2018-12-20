@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="ds18B20">
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="bob">
     <title>Search</title>
     <instances>
-        <instance moduleIdRef="SparkFun Load Sensor Combinator" modelIndex="85469839" path="D:/Zen3515/Downloads/Compressed/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/SparkFun Load Sensor Combinator.fzp">
+        <instance moduleIdRef="SparkFun-Connectors-RJ45-8-PTH_fix_bottom" modelIndex="85470627" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-rj45-8-pth-fix2.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="DS18B20_fixed" modelIndex="85469841" path="D:/Zen3515/Downloads/Compressed/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/DS18B20.fzp">
+        <instance moduleIdRef="SparkFun-Connectors-PIC-ICSP-MINI-" modelIndex="85470629" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-pic-icsp-mini-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkfun_storage_microsd" modelIndex="85470631" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun_storage_microsd.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-NS" modelIndex="85470633" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-ns.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-LMD1820X-" modelIndex="85470635" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-poweric-lmd1820x-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-SI470X-" modelIndex="85470637" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-rf-si470x-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Mega_Shield-v13" modelIndex="85470639" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/Mega_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Op Amp Breakout-v16" modelIndex="85470641" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/Op Amp Breakout-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-2X3_LOCK" modelIndex="85470643" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-2x3_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ISD1932 Breakout-v11" modelIndex="85470645" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/ISD1932 Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-RJ45-8-PTH_fix" modelIndex="85470647" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-rj45-8-pth-fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-OFFSET_PADS" modelIndex="85470649" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-offset_pads.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Button-LED-Breakout-v10" modelIndex="85470651" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/LED Tactile Button Breakout v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-PTH" modelIndex="85470653" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-RF24G-" modelIndex="85470655" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-rf-rf24g-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-v25" modelIndex="85470657" path="C:/Users/Zen35/Documents/Zen3515/AC6/fritzing.0.9.3b.64.pc/fritzing-parts/core/ProtoShield-v25.fzp">
             <views/>
         </instance>
     </instances>
